@@ -1,0 +1,8 @@
+
+Python
+Django
+Bootstrap
+JavaScript
+Django
+django-crispy-forms
+Pillow
